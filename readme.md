@@ -1,5 +1,5 @@
 # awesome-doodle
-## status: alpha
+## stability: alpha
 Append files in this repo to your config
 
 
